@@ -1,4 +1,4 @@
-<h1 align="center" id="title">Blackeyes</h1>
+<h1 align="center" id="title">👁️Blackeyes</h1>
 
 <p id="description">A quick and easy tool for running basic Paintest commands, designed for CTF participants</p>
 
