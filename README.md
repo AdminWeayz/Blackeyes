@@ -1,6 +1,6 @@
 <h1 align="center" id="title">Blackeyes</h1>
 
-<p id="description">A quick and easy tool for performing effective NAMP scans with options for penetration testing</p>
+<p id="description">A quick and easy tool for running basic Paintest commands, designed for CTF participants</p>
 
 <h2>🛠️ Installation Steps:</h2>
 
